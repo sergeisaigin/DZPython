@@ -1,0 +1,2 @@
+2024-02-29 10:27:25,643 :: ERROR :: Error while scanning directory: [Errno 2] No such file or directory: 'e'
+2024-02-29 10:28:17,807 :: ERROR :: Error while scanning directory: [Errno 2] No such file or directory: '{e}'
